@@ -1,0 +1,1 @@
+A quickstart web application project. Build using maven and wicket for ui.
